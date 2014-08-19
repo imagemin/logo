@@ -1,0 +1,14 @@
+@import 'logo/logo';
+
+/**
+ * imagemin logo
+ */
+
+.logo[data-logo="imagemin"] {
+	width: 1em;
+}
+
+.logo[data-logo="imagemin"] > * {
+	margin: 0;
+	background-image: url('images/logo.svg');
+}

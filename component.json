@@ -1,0 +1,11 @@
+{
+  "logo": "imagemin",
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "The imagemin logo",
+  "license": "MIT",
+  "repository": "imagemin/logo",
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
