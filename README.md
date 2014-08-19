@@ -1,6 +1,6 @@
 # logo
 
-> The imagemin logo
+> The [imagemin logo](https://raw.githubusercontent.com/imagemin/logo/master/images/logo.png)
 
 Easily include the imagemin logo on your site without editing any images. This 
 component is built on the [logo/logo](https://github.com/logo/logo) base.
