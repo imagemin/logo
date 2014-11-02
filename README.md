@@ -1,5 +1,7 @@
 # logo
 
+<img align="right" width="125" src="images/logo.png">
+
 > The [imagemin logo](https://raw.githubusercontent.com/imagemin/logo/master/images/logo.png)
 
 Easily include the imagemin logo on your site without editing any images. This 
