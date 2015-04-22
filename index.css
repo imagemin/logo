@@ -1,9 +1,5 @@
 @import 'logo/logo';
 
-/**
- * imagemin logo
- */
-
 .logo[data-logo="imagemin"] {
 	width: 1em;
 }
